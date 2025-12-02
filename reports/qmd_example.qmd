@@ -16,7 +16,6 @@ execute:
 project:
   type: website
   output-dir: docs
-jupyter: quarto-python
 ---
 
 ```{python}
