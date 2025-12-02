@@ -12,6 +12,7 @@ editor: source
 bibliography: references.bib
 execute:
   echo: false
+  enable: true
 ---
 
 ```{python}
@@ -73,6 +74,6 @@ Additionally, note that in @tbl-horse-pop we consider the sample standard deviat
 
 ![](../results/horse_pops_plot_largest_sd.png){#fig-horse-prov width=70% fig-cap="Horse populations for the province with the largest standard deviation"}
 
-In @fig-horse-prov we zoom in and look at the province of `{python}`, which had the largest spread of values in terms of standard deviation.
+In @fig-horse-prov we zoom in and look at the province of `{python} largest_sd`, which had the largest spread of values in terms of standard deviation.
 
 ### References
