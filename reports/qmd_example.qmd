@@ -13,6 +13,9 @@ bibliography: references.bib
 execute:
   echo: false
   enable: true
+project:
+  type: website
+  output-dir: docs
 ---
 
 ```{python}
